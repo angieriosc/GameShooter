@@ -1,0 +1,4 @@
+*.hdr filter=lfs diff=lfs merge=lfs -text
+*.dae filter=lfs diff=lfs merge=lfs -text
+shooter/Assets/BreakableAsteroids/Textures/The[[:space:]]Void[[:space:]]8k.hdr filter=lfs diff=lfs merge=lfs -text
+shooter/Assets/BreakableAsteroids/Asteroids/zasteroids.dae filter=lfs diff=lfs merge=lfs -text
